@@ -103,7 +103,7 @@ Contributions are welcome. Please open an issue or submit a pull request.
 
 ## License
 
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://raw.githubusercontent.com/AznIronMan/pyscribe/main/LICENSE.txt)
 
 ## Contact
 
