@@ -51,7 +51,9 @@ If you do not specify any files or destination folder, the program will ask you 
 python pyscribe.py
 ```
 
-## Pip Requirements.txt
+## Requirements.txt
+
+Be sure before trying to run the script to run `pip install -r requirements.txt` to install all prerequisites.
 
 In case the 'requirements.txt' is missing for some reason, here is an export of the file as of 2023.07.01:
 
